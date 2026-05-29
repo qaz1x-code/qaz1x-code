@@ -11,6 +11,7 @@ As a hobby I develop and configure plugins for Minecraft — it's my sandbox for
 
 <br/>
 <div align="center">
+   
 ![Stars](https://img.shields.io/badge/Stars-15K-1793D1?style=flat&logo=github&logoColor=white&labelColor=2a2a2a)
 ![Followers](https://img.shields.io/github/followers/qaz1x-code?style=flat&logo=github&logoColor=white&label=Follow&labelColor=2a2a2a&color=1793D1)
 ![Visitors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2Fqaz1x-code%2Fvisits%2Fup&query=%24.count&style=flat&logo=github&logoColor=white&label=Visitors&labelColor=2a2a2a&color=1793D1)
@@ -40,10 +41,12 @@ As a hobby I develop and configure plugins for Minecraft — it's my sandbox for
 # 📈 GitHub Stats
  
 <div align="center">
+   
 ![](https://github-readme-stats.shion.dev/api?username=qaz1x-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://streak-stats.demolab.com/?user=qaz1x-code&theme=dark&hide_border=false)
  
 <br/>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=qaz1x-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  
 </div>
