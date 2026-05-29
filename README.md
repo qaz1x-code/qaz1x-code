@@ -38,14 +38,14 @@ As a hobby I develop and configure plugins for Minecraft — it's my sandbox for
 ![Raspberry Pi](https://img.shields.io/badge/HW-RaspberryPi-2496ED?style=flat&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/HW-Arduino-2496ED?style=flat&logo=arduino&logoColor=white)
 
+<br/>
+
 # 📈 GitHub Stats
  
 <div align="center">
    
 ![](https://github-readme-stats.shion.dev/api?username=qaz1x-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://streak-stats.demolab.com/?user=qaz1x-code&theme=dark&hide_border=false)
- 
-<br/>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=qaz1x-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  
