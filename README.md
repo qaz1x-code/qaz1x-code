@@ -45,7 +45,6 @@ As a hobby I develop and configure plugins for Minecraft — it's my sandbox for
 <div align="center">
    
 ![](https://github-readme-stats.shion.dev/api?username=qaz1x-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=qaz1x-code&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=qaz1x-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  
