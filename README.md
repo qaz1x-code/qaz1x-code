@@ -15,6 +15,7 @@ As a hobby I develop and configure plugins for Minecraft — it's my sandbox for
 ![Followers](https://img.shields.io/github/followers/qaz1x-code?style=flat&logo=github&logoColor=white&label=Follow&labelColor=2a2a2a&color=1793D1)
 ![Visitors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2Fqaz1x-code%2Fvisits%2Fup&query=%24.count&style=flat&logo=github&logoColor=white&label=Visitors&labelColor=2a2a2a&color=1793D1)
 
+
 </div>
 
 
@@ -35,3 +36,8 @@ As a hobby I develop and configure plugins for Minecraft — it's my sandbox for
 ![Blender](https://img.shields.io/badge/3D-Blender-2496ED?style=flat&logo=blender&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/HW-RaspberryPi-2496ED?style=flat&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/HW-Arduino-2496ED?style=flat&logo=arduino&logoColor=white)
+
+# 📈 GitHub Stats
+![](https://github-readme-stats.shion.dev/api?username=qaz1x-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=qaz1x-code&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=qaz1x-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
