@@ -8,6 +8,7 @@ I'm into programming, reverse engineering and writing lightweight scripts for my
 
 As a hobby I develop and configure plugins for Minecraft — it's my sandbox for experimenting with Java and software architecture.
 
+
 <div align="center">
    
 ![Stars](https://img.shields.io/badge/Stars-15K-1793D1?style=flat&logo=github&logoColor=white&labelColor=2a2a2a)
@@ -16,7 +17,8 @@ As a hobby I develop and configure plugins for Minecraft — it's my sandbox for
 
 </div>
 
-## 🛠 Tech Stack
+
+# 🔧 Technologies & Tools
 
 ![Arch Linux](https://img.shields.io/badge/OS-ArchLinux-2496ED?style=flat&logo=archlinux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell-Bash-2496ED?style=flat&logo=gnubash&logoColor=white)
