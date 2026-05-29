@@ -33,8 +33,6 @@ As a hobby I develop and configure plugins for Minecraft — it's my sandbox for
 ![MySQL](https://img.shields.io/badge/Tools-MySQL-2496ED?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Tools-SQLite-2496ED?style=flat&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/Tools-MongoDB-2496ED?style=flat&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/Tools-Figma-2496ED?style=flat&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/3D-Blender-2496ED?style=flat&logo=blender&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/HW-RaspberryPi-2496ED?style=flat&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/HW-Arduino-2496ED?style=flat&logo=arduino&logoColor=white)
 
