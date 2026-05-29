@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/qaz1x-code/qaz1x-code/main/Header.png)](https://qaz1x-code.github.io)
 
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />   
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hello!   
    
 I'm a beginner cybersecurity engineer.
 
