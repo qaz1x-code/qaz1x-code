@@ -1,3 +1,12 @@
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />   
+   
+I'm a beginner cybersecurity engineer.
+
+I'm into programming, reverse engineering and writing lightweight scripts for my own system. I'm constantly learning something new and love figuring out how everything works under the hood.
+
+As a hobby I develop and configure plugins for Minecraft — it's my sandbox for experimenting with Java and software architecture.
+   
+   
    ![Stars](https://img.shields.io/github/stars/qaz1x-code?style=flat&logo=github&logoColor=white&label=Stars&labelColor=2a2a2a&color=1793D1)
    ![Followers](https://img.shields.io/github/followers/qaz1x-code?style=flat&logo=github&logoColor=white&label=Follow&labelColor=2a2a2a&color=1793D1)
    ![Visitors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2Fqaz1x-code%2Fvisits%2Fup&query=%24.count&style=flat&logo=github&logoColor=white&label=Visitors&labelColor=2a2a2a&color=1793D1)
