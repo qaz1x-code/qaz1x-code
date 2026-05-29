@@ -22,7 +22,6 @@ As a hobby I develop and configure plugins for Minecraft — it's my sandbox for
 ![HTML5](https://img.shields.io/badge/Code-HTML5-2496ED?style=flat&logo=html5&logoColor=white)
 ![Docker](https://img.shields.io/badge/Tools-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Tools-Git-2496ED?style=flat&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Tools-Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Tools-MySQL-2496ED?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Tools-SQLite-2496ED?style=flat&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/Tools-MongoDB-2496ED?style=flat&logo=mongodb&logoColor=white)
