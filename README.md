@@ -20,7 +20,7 @@ As a hobby I develop and configure plugins for Minecraft — it's my sandbox for
 <br/>
 
 
-# 🔧 Technologies & Tools
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="30px" height="30px" /> Technologies & Tools
 
 ![Arch Linux](https://img.shields.io/badge/OS-ArchLinux-2496ED?style=flat&logo=archlinux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell-Bash-2496ED?style=flat&logo=gnubash&logoColor=white)
